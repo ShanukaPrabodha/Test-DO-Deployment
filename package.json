@@ -1,0 +1,23 @@
+{
+  "name": "test-do-deployment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShanukaPrabodha/Test-DO-Deployment.git"
+  },
+  "author": "shanuka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShanukaPrabodha/Test-DO-Deployment/issues"
+  },
+  "homepage": "https://github.com/ShanukaPrabodha/Test-DO-Deployment#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
